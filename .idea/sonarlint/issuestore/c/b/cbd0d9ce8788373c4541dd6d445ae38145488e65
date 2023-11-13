@@ -1,0 +1,82 @@
+
+{
+java:S1192"^Define a constant instead of duplicating this literal "It's a Novel or an Art Album?" 3 times.(ã¶ÿ8úÍÃ¼1
+|
+java:S1192"ZDefine a constant instead of duplicating this literal "Enter the number of pages" 3 times.(¡«™Öşÿÿÿÿ8ûÍÃ¼1
+
+java:S1192!"]Define a constant instead of duplicating this literal "Enter the type of the novel:" 3 times.(Äüêşÿÿÿÿ8ûÍÃ¼1
+}
+java:S1192'"`Define a constant instead of duplicating this literal "Enter the quality of the paper:" 3 times.(ËÌÅ8ûÍÃ¼1
+v
+java:S1192v"YDefine a constant instead of duplicating this literal "This is the new library:" 3 times.(¸¯Æë8›ãÃ¼1
+o
+java:S1192-"RDefine a constant instead of duplicating this literal "INVALID CHARACTER" 4 times.(”°ƒÑ8ûÍÃ¼1
+|
+java:S1192"ZDefine a constant instead of duplicating this literal "***(enter only N or A)***" 3 times.(ÒÉ¹¦şÿÿÿÿ8ûÍÃ¼1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ûÍÃ¼1
+z	java:S1358"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ûÍÃ¼1
+z	java:S135V"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ûÍÃ¼1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8ÿÍÃ¼1
+L	java:S106"+Replace this use of System.out by a logger.(Ùç¾ùÿÿÿÿ8‚ÍÃ¼1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‚ÍÃ¼1
+G	java:S106"+Replace this use of System.out by a logger.(£ö—é8‚ÍÃ¼1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‚ÍÃ¼1
+G	java:S106"+Replace this use of System.out by a logger.(à—›Ò8‚ÍÃ¼1
+L	java:S106"+Replace this use of System.out by a logger.(¡«™Öşÿÿÿÿ8ƒÍÃ¼1
+V
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¿¿ÙÈ8ƒÍÃ¼1
+G	java:S106"+Replace this use of System.out by a logger.(ã¶ÿ8ƒÍÃ¼1
+L	java:S106"+Replace this use of System.out by a logger.(ÒÉ¹¦şÿÿÿÿ8ƒÍÃ¼1
+…
+java:S1157 "cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(íÆÁûÿÿÿÿ8ƒÍÃ¼1
+L	java:S106!"+Replace this use of System.out by a logger.(Äüêşÿÿÿÿ8ˆÍÃ¼1
+€
+java:S1157&"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¤ş‹¦8ˆÍÃ¼1
+G	java:S106'"+Replace this use of System.out by a logger.(ËÌÅ8ˆÍÃ¼1
+G	java:S106-"+Replace this use of System.out by a logger.(”°ƒÑ8‰ÍÃ¼1
+L	java:S1060"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‰ÍÃ¼1
+L	java:S1063"+Replace this use of System.out by a logger.(ÍÀœ¾úÿÿÿÿ8‰ÍÃ¼1
+L	java:S1065"+Replace this use of System.out by a logger.(¡«™Öşÿÿÿÿ8‰ÍÃ¼1
+[
+java:S21306"9Use "Integer.parseInt" for this string-to-int conversion.(‹¶ÓŞşÿÿÿÿ8‰ÍÃ¼1
+G	java:S1069"+Replace this use of System.out by a logger.(ã¶ÿ8‰ÍÃ¼1
+L	java:S106:"+Replace this use of System.out by a logger.(ÒÉ¹¦şÿÿÿÿ8‰ÍÃ¼1
+…
+java:S1157<"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ÿ¸áüÿÿÿÿ8ŠÍÃ¼1
+L	java:S106="+Replace this use of System.out by a logger.(Äüêşÿÿÿÿ8ŠÍÃ¼1
+…
+java:S1157B"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(‘Áúÿÿÿÿ8ŠÍÃ¼1
+G	java:S106C"+Replace this use of System.out by a logger.(ËÌÅ8ŠÍÃ¼1
+G	java:S106I"+Replace this use of System.out by a logger.(”°ƒÑ8‹ÍÃ¼1
+L	java:S106L"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‹ÍÃ¼1
+G	java:S106P"+Replace this use of System.out by a logger.(åêû8‹ÍÃ¼1
+L	java:S106R"+Replace this use of System.out by a logger.(¡«™Öşÿÿÿÿ8‹ÍÃ¼1
+[
+java:S2130S"9Use "Integer.parseInt" for this string-to-int conversion.(ËŒÙìøÿÿÿÿ8‹ÍÃ¼1
+G	java:S106W"+Replace this use of System.out by a logger.(ã¶ÿ8‹ÍÃ¼1
+L	java:S106X"+Replace this use of System.out by a logger.(ÒÉ¹¦şÿÿÿÿ8‹ÍÃ¼1
+…
+java:S1157Z"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Á¼»Ùøÿÿÿÿ8ŒÍÃ¼1
+L	java:S106["+Replace this use of System.out by a logger.(Äüêşÿÿÿÿ8ŒÍÃ¼1
+…
+java:S1157`"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ãı«òùÿÿÿÿ8ŒÍÃ¼1
+G	java:S106a"+Replace this use of System.out by a logger.(ËÌÅ8ŒÍÃ¼1
+G	java:S106g"+Replace this use of System.out by a logger.(”°ƒÑ8ÍÃ¼1
+L	java:S106j"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÍÃ¼1
+G	java:S106k"+Replace this use of System.out by a logger.(®¨……8ÍÃ¼1
+G	java:S106o"+Replace this use of System.out by a logger.(‘ôäÛ8ùèßÃ¼1
+€
+java:S1157q"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(‘çëê8ùèßÃ¼1
+L	java:S106r"+Replace this use of System.out by a logger.(Ï»¿ûùÿÿÿÿ8ùèßÃ¼1
+G	java:S106v"+Replace this use of System.out by a logger.(¸¯Æë8úèßÃ¼1
+G	java:S106{"+Replace this use of System.out by a logger.(¸¯Æë8úèßÃ¼1
+G	java:S106"+Replace this use of System.out by a logger.(¸¯Æë8úèßÃ¼1
+H	java:S106‚"+Replace this use of System.out by a logger.(ëÅÆ8ÀÓàÃ¼1
+†
+java:S1157„"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Î’ˆ¤ÿÿÿÿÿ8úèßÃ¼1
+M	java:S106…"+Replace this use of System.out by a logger.(óÇÄÕüÿÿÿÿ8¾ÒâÃ¼1
+H	java:S106‡"+Replace this use of System.out by a logger.(”°ƒÑ8‹ãÃ¼1
+M	java:S106‹"+Replace this use of System.out by a logger.(¯Œšñÿÿÿÿÿ8‹ãÃ¼1
+J
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8ãëÙÃ¼1
