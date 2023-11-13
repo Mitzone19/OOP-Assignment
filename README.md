@@ -1,86 +1,53 @@
-Book Library Management Program
-This simple command-line program allows you to manage a library of books. You can perform the following actions:
+# Library Management System
 
-Add books to the library by providing their details, including name, number of pages, and whether they are a novel or an art album.
-Remove a book from the library.
-Display the current contents of the library.
-How to Use
-Run the program.
+## Overview
+This Library Management System allows users to interactively manage a collection of books. Users can add books to their library, remove them, and display all items in the library. It supports both novels and art albums with specific attributes for each type.
 
-Enter the details of the books you want to add to the library:
+## Features
+- **Add Books**: Users can add up to three books, providing details like book name, number of pages, and specific attributes based on the book type (novel or art album).
+- **Remove Books**: Users can remove a book from their library.
+- **Display Library**: The system displays all books currently in the library with their details.
 
-Book name
-Number of pages
-Type (N for Novel, A for Art Album)
-If it's a novel, enter the type of the novel (e.g., FANTASY).
-If it's an art album, enter the quality of the paper (e.g., GOOD).
-After adding books, you can choose to remove a book from the library by entering 'Y' when prompted. If you choose to remove a book, you will be asked to specify which book to delete by entering its corresponding number.
+## Usage
 
-The program will display the updated library with the remaining books.
+### Adding Books
+1. Enter the name of the book.
+2. Specify the number of pages.
+3. Indicate the type of the book (Novel or Art Album) by entering 'N' for Novel or 'A' for Art Album.
+4. Based on the book type, enter the type of the novel (e.g., Fantasy) or the quality of the paper for an art album.
 
-Repeat steps 2-4 as needed to manage your library.
+### Removing Books
+1. Indicate whether you want to remove a book by entering 'Y' for Yes or 'N' for No.
+2. If 'Y' is selected, choose which book to delete by entering the corresponding number (1, 2, or 3).
 
-Example
-Here's an example of how the program works:
+### Displaying the Library
+- After adding or removing books, the system automatically displays the current state of the library, listing all the books with their details.
 
+## Example
 Enter the first book name
-THE FELLOWSHIP OF THE RING
 
+THE FELLOWSHIP OF THE RING
 Enter the number of pages
 423
-
-It's a Novel or an Art Album?
-***(enter only N or A)***
-
+It's a Novel or an Art Album? (enter only N or A)
 N
-
 Enter the type of the novel:
 FANTASY
 
-Enter the second book name
-FAMILY ALBUM
-
-Enter the number of pages
-23
-
-It's a Novel or an Art Album?
-***(enter only N or A)***
-
-A
-
-Enter the quality of the paper:
-GOOD
-
-Enter the third book name
-THE RETURN OF THE KING
-
-Enter the number of pages
-416
-
-It's a Novel or an Art Album?
-***(enter only N or A)***
-
-N
-
-Enter the type of the novel:
-FANTASY
+... [Further interactions follow the same pattern]
 
 This is the current library:
-
 Novel: THE FELLOWSHIP OF THE RING, type: FANTASY (423 pages)
-
 Art Album: FAMILY ALBUM, paper quality GOOD (23 pages)
-
 Novel: THE RETURN OF THE KING, type: FANTASY (416 pages)
 
 Want to remove a book? Y/N
-Y
 
-Choose which book to delete 1, 2, or 3:
+Y
+Choose which book to delete 1,2 or 3:
 2
 
 This is the new library:
-
 Novel: THE FELLOWSHIP OF THE RING, type: FANTASY (423 pages)
-
 Novel: THE RETURN OF THE KING, type: FANTASY (416 pages)
+----------------END----------------
